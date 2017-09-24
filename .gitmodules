@@ -1,0 +1,3 @@
+[submodule "libs/golems"]
+	path = libs/golems
+	url = git@github.com:starburst997/Golems
