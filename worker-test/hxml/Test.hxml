@@ -1,4 +1,4 @@
 -main Test
 -cp src
--js ../bin/js/bin/app.js
+-js bin/js/bin/app.js
 -lib golems
