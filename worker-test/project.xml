@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
 	
-	<meta title="Test Worker" package="com.failsafegames.worker-test" version="1.0.0" company="FailSafe Games" />
+	<meta title="Test Worker" package="com.failsafegames.workertest" version="1.0.0" company="FailSafe Games" />
 	<app main="TestOpenFL" path="bin/openfl" file="WorkerTest" />
 	
 	<source path="src" />
