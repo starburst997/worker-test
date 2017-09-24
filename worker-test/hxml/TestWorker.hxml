@@ -1,5 +1,6 @@
 ##GOLEM##
 -main TestWorker
+-cp ../src
 -js ../bin/js/bin/worker.js
 -lib golems
 -dce no
